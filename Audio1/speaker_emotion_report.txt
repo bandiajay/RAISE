@@ -1,0 +1,20 @@
+🎙️ Speaker-Level Emotion Summary
+
+SPEAKER_01
+  ⏱️ Total speaking time: 2.42 seconds
+  🔁 Number of speaking turns: 2
+  🎭 Most frequent emotion: surprise
+  📊 Emotion distribution: {'surprise': 1, 'neutral': 1}
+
+SPEAKER_00
+  ⏱️ Total speaking time: 3.10 seconds
+  🔁 Number of speaking turns: 3
+  🎭 Most frequent emotion: neutral
+  📊 Emotion distribution: {'neutral': 3}
+
+SPEAKER_02
+  ⏱️ Total speaking time: 2.24 seconds
+  🔁 Number of speaking turns: 2
+  🎭 Most frequent emotion: disgust
+  📊 Emotion distribution: {'disgust': 1, 'anger': 1}
+
