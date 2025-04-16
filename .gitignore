@@ -1,36 +1,27 @@
 # Ignore OS and IDE files
 .DS_Store
 __pycache__/
-*.pyc
-*.pyo
-*.swp
-.vscode/
-.idea/
-# Ignore OS and IDE files
+# macOS system files
 .DS_Store
+
+# Python cache
 __pycache__/
 *.pyc
 *.pyo
+*.log
 *.swp
+
+# IDE settings
 .vscode/
 .idea/
 
-# Ignore virtual environment if copied inside accidentally
+# Virtual environment
 env/
 ../env/
 
-# Common
-*.log
-
-# Prevent app.py from being committed
+# Sensitive or local-only files
+.env
+.env.*
+*.env
+app.py
 main.py
-# Ignore virtual environment if copied inside accidentally
-env/# Ignore virtual environment
-../env/
-
-# Common
-__pycache__/
-*.pyc
-*.log
-.DS_Store
-
