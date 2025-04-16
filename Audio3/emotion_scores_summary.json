@@ -1,0 +1,65 @@
+[
+    {
+        "start": 2.5600000000000027,
+        "end": 3.36,
+        "speaker": "SPEAKER_01",
+        "emotion": "neutral",
+        "score": 0.314
+    },
+    {
+        "start": 4.460000000000002,
+        "end": 5.72,
+        "speaker": "SPEAKER_01",
+        "emotion": "neutral",
+        "score": 0.921
+    },
+    {
+        "start": 6.24,
+        "end": 9.28,
+        "speaker": "SPEAKER_01",
+        "emotion": "fear",
+        "score": 0.342
+    },
+    {
+        "start": 9.88,
+        "end": 11.88,
+        "speaker": "SPEAKER_00",
+        "emotion": "neutral",
+        "score": 0.816
+    },
+    {
+        "start": 12.440000000000001,
+        "end": 13.44,
+        "speaker": "SPEAKER_02",
+        "emotion": "surprise",
+        "score": 0.402
+    },
+    {
+        "start": 14.100000000000001,
+        "end": 15.06,
+        "speaker": "SPEAKER_02",
+        "emotion": "neutral",
+        "score": 0.953
+    },
+    {
+        "start": 15.780000000000001,
+        "end": 17.66,
+        "speaker": "SPEAKER_02",
+        "emotion": "neutral",
+        "score": 0.769
+    },
+    {
+        "start": 18.4,
+        "end": 20.68,
+        "speaker": "SPEAKER_00",
+        "emotion": "neutral",
+        "score": 0.832
+    },
+    {
+        "start": 21.08,
+        "end": 21.98,
+        "speaker": "SPEAKER_01",
+        "emotion": "neutral",
+        "score": 0.739
+    }
+]

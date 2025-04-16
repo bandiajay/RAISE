@@ -1,0 +1,8 @@
+[0:00:01 - 0:00:03] SPEAKER_01: Okay, let me check my schedule one more time.
+[0:00:04 - 0:00:04] SPEAKER_01: Okay.
+[0:00:07 - 0:00:09] SPEAKER_04: And guess what? I am free that evening.
+[0:00:09 - 0:00:11] SPEAKER_04: Super. And how about oneita?
+[0:00:11 - 0:00:12] SPEAKER_04: Let me ask her.
+[0:00:14 - 0:00:16] SPEAKER_02: Yes. Um, yes, and she seems to be free too.
+[0:00:17 - 0:00:20] SPEAKER_00: Great. Can we meet at 7 p.m.?
+[0:00:20 - 0:00:20] SPEAKER_00: Yeah.
