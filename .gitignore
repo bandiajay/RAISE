@@ -11,10 +11,6 @@ __pycache__/
 *.log
 *.swp
 
-# IDE settings
-.vscode/
-.idea/
-
 # Virtual environment
 env/
 ../env/
@@ -23,5 +19,4 @@ env/
 .env
 .env.*
 *.env
-app.py
-main.py
+
