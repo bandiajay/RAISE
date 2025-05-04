@@ -1,0 +1,121 @@
+[
+  {
+    "start": 0.0,
+    "end": 2.06,
+    "text": " I am currently all-Irnit.",
+    "speaker": "Speaker 1",
+    "emotion": "neutral"
+  },
+  {
+    "start": 2.14,
+    "end": 3.38,
+    "text": " What is your name?",
+    "speaker": "Speaker 1",
+    "emotion": "neutral"
+  },
+  {
+    "start": 4.02,
+    "end": 5.16,
+    "text": " My name is Anisha.",
+    "speaker": "Speaker 1",
+    "emotion": "neutral"
+  },
+  {
+    "start": 6.4,
+    "end": 9.58,
+    "text": " My name is Vani and I am delighted to be here today.",
+    "speaker": "Speaker 2",
+    "emotion": "joy"
+  },
+  {
+    "start": 10.02,
+    "end": 10.86,
+    "text": " Where are you from?",
+    "speaker": "Speaker 2",
+    "emotion": "neutral"
+  },
+  {
+    "start": 11.48,
+    "end": 12.42,
+    "text": " I am from Lucknow.",
+    "speaker": "Speaker 2",
+    "emotion": "neutral"
+  },
+  {
+    "start": 12.96,
+    "end": 16.84,
+    "text": " I am from Lucknow which is known for its rich cultural heritage.",
+    "speaker": "Speaker 2",
+    "emotion": "joy"
+  },
+  {
+    "start": 17.2,
+    "end": 18.34,
+    "text": " What do you do for a living?",
+    "speaker": "Speaker 1",
+    "emotion": "neutral"
+  },
+  {
+    "start": 19.32,
+    "end": 20.5,
+    "text": " I work as a teacher.",
+    "speaker": "Speaker 2",
+    "emotion": "fear"
+  },
+  {
+    "start": 21.46,
+    "end": 25.62,
+    "text": " I am currently employed as an educator specializing in English language.",
+    "speaker": "Speaker 2",
+    "emotion": "joy"
+  },
+  {
+    "start": 26.1,
+    "end": 26.94,
+    "text": " What are your hobbies?",
+    "speaker": "Speaker 1",
+    "emotion": "neutral"
+  },
+  {
+    "start": 26.94,
+    "end": 30.38,
+    "text": " I like to draw and read.",
+    "speaker": "Speaker 1",
+    "emotion": "joy"
+  },
+  {
+    "start": 31.14,
+    "end": 36.8,
+    "text": " Actually I am an avid reader and I enjoy exploring different genres of literature.",
+    "speaker": "Speaker 2",
+    "emotion": "joy"
+  },
+  {
+    "start": 37.4,
+    "end": 38.12,
+    "text": " Do you like to travel?",
+    "speaker": "Speaker 1",
+    "emotion": "neutral"
+  },
+  {
+    "start": 39.4,
+    "end": 40.86,
+    "text": " Yeah, I like to travel.",
+    "speaker": "Speaker 2",
+    "emotion": "joy"
+  },
+  {
+    "start": 41.76,
+    "end": 44.78,
+    "text": " Yes, traveling is actually one of my greatest passions.",
+    "speaker": "Speaker 2",
+    "emotion": "joy"
+  },
+  {
+    "start": 44.98,
+    "end": 51.14,
+    "text": " I enjoy exploring different cities, places and cultures so that it helps me to broaden my perspective.",
+    "speaker": "Speaker 2",
+    "emotion": "joy"
+  }
+]

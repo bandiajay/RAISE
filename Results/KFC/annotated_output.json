@@ -1,0 +1,100 @@
+[
+  {
+    "start": 0.0,
+    "end": 2.16,
+    "text": " Okay, let me check my schedule one more time.",
+    "speaker": "Speaker 1",
+    "emotion": "neutral"
+  },
+  {
+    "start": 2.52,
+    "end": 2.96,
+    "text": " Okay.",
+    "speaker": "Speaker 1",
+    "emotion": "neutral"
+  },
+  {
+    "start": 5.3,
+    "end": 7.52,
+    "text": " And guess what? I am free that evening.",
+    "speaker": "Speaker 1",
+    "emotion": "joy"
+  },
+  {
+    "start": 8.0,
+    "end": 9.68,
+    "text": " Super. And how about oneita?",
+    "speaker": "Speaker 2",
+    "emotion": "neutral"
+  },
+  {
+    "start": 10.04,
+    "end": 10.96,
+    "text": " Let me ask her.",
+    "speaker": "Speaker 1",
+    "emotion": "neutral"
+  },
+  {
+    "start": 13.079999999999997,
+    "end": 15.12,
+    "text": " Yes, she seems to be free too.",
+    "speaker": "Speaker 1",
+    "emotion": "neutral"
+  },
+  {
+    "start": 15.72,
+    "end": 17.66,
+    "text": " Great. Can we meet at 7pm?",
+    "speaker": "Speaker 2",
+    "emotion": "joy"
+  },
+  {
+    "start": 18.08,
+    "end": 19.26,
+    "text": " Yes. Where shall we meet?",
+    "speaker": "Speaker 1",
+    "emotion": "neutral"
+  },
+  {
+    "start": 19.84,
+    "end": 21.12,
+    "text": " How about KFC?",
+    "speaker": "Speaker 2",
+    "emotion": "neutral"
+  },
+  {
+    "start": 23.26,
+    "end": 23.76,
+    "text": " KFC?",
+    "speaker": "Speaker 1",
+    "emotion": "surprise"
+  },
+  {
+    "start": 25.92,
+    "end": 26.9,
+    "text": " I'm just joking.",
+    "speaker": "Speaker 2",
+    "emotion": "neutral"
+  },
+  {
+    "start": 27.52,
+    "end": 29.78,
+    "text": " Actually, I'm making reservations at the Chateau de Mille.",
+    "speaker": "Speaker 2",
+    "emotion": "neutral"
+  },
+  {
+    "start": 31.779999999999998,
+    "end": 33.98,
+    "text": " Isn't that an expensive French restaurant?",
+    "speaker": "Speaker 1",
+    "emotion": "surprise"
+  },
+  {
+    "start": 35.16,
+    "end": 36.16,
+    "text": " It is too bad.",
+    "speaker": "Speaker 1",
+    "emotion": "disgust"
+  }
+]

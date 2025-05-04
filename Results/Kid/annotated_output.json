@@ -1,0 +1,268 @@
+[
+  {
+    "start": 0.0,
+    "end": 1.18,
+    "text": " Who's this little guy?",
+    "speaker": "Speaker 2",
+    "emotion": "surprise"
+  },
+  {
+    "start": 1.18,
+    "end": 2.3,
+    "text": " My son, he's his name.",
+    "speaker": "Speaker 2",
+    "emotion": "neutral"
+  },
+  {
+    "start": 2.54,
+    "end": 2.78,
+    "text": " Caleb.",
+    "speaker": "Speaker 2",
+    "emotion": "neutral"
+  },
+  {
+    "start": 3.86,
+    "end": 4.34,
+    "text": " Hi.",
+    "speaker": "Speaker 1",
+    "emotion": "neutral"
+  },
+  {
+    "start": 5.2,
+    "end": 5.94,
+    "text": " How old are you?",
+    "speaker": "Speaker 1",
+    "emotion": "neutral"
+  },
+  {
+    "start": 6.9,
+    "end": 7.38,
+    "text": " Five.",
+    "speaker": "Speaker 1",
+    "emotion": "neutral"
+  },
+  {
+    "start": 8.42,
+    "end": 9.2,
+    "text": " Do you want to come up here?",
+    "speaker": "Speaker 2",
+    "emotion": "neutral"
+  },
+  {
+    "start": 9.46,
+    "end": 10.12,
+    "text": " Say it over here.",
+    "speaker": "Speaker 2",
+    "emotion": "neutral"
+  },
+  {
+    "start": 11.0,
+    "end": 13.62,
+    "text": " Who's your favorite person in the whole world?",
+    "speaker": "Speaker 2",
+    "emotion": "neutral"
+  },
+  {
+    "start": 14.0,
+    "end": 14.36,
+    "text": " My mom.",
+    "speaker": "Speaker 1",
+    "emotion": "sadness"
+  },
+  {
+    "start": 14.72,
+    "end": 15.14,
+    "text": " Your mom.",
+    "speaker": "Speaker 1",
+    "emotion": "sadness"
+  },
+  {
+    "start": 15.9,
+    "end": 17.52,
+    "text": " Oh, you're doing good so far, right?",
+    "speaker": "Speaker 2",
+    "emotion": "joy"
+  },
+  {
+    "start": 17.8,
+    "end": 19.8,
+    "text": " Your mom has a speedy violation.",
+    "speaker": "Speaker 2",
+    "emotion": "neutral"
+  },
+  {
+    "start": 20.3,
+    "end": 21.02,
+    "text": " Do you know that?",
+    "speaker": "Speaker 2",
+    "emotion": "surprise"
+  },
+  {
+    "start": 21.54,
+    "end": 21.92,
+    "text": " Yes.",
+    "speaker": "Speaker 1",
+    "emotion": "neutral"
+  },
+  {
+    "start": 22.1,
+    "end": 23.36,
+    "text": " Is she a guilty or not guilty?",
+    "speaker": "Speaker 1",
+    "emotion": "neutral"
+  },
+  {
+    "start": 24.52,
+    "end": 25.16,
+    "text": " No, guilty.",
+    "speaker": "Speaker 1",
+    "emotion": "sadness"
+  },
+  {
+    "start": 25.56,
+    "end": 26.48,
+    "text": " She's not guilty.",
+    "speaker": "Speaker 2",
+    "emotion": "sadness"
+  },
+  {
+    "start": 27.099999999999994,
+    "end": 29.02,
+    "text": " Oh, well, he's a good judge.",
+    "speaker": "Speaker 2",
+    "emotion": "neutral"
+  },
+  {
+    "start": 29.02,
+    "end": 29.52,
+    "text": " Yeah.",
+    "speaker": "Speaker 2",
+    "emotion": "neutral"
+  },
+  {
+    "start": 30.28,
+    "end": 31.9,
+    "text": " Do you have any brothers and sisters?",
+    "speaker": "Speaker 1",
+    "emotion": "neutral"
+  },
+  {
+    "start": 32.46,
+    "end": 36.06,
+    "text": " Oli, Oli, Oli sister, my most old mate.",
+    "speaker": "Speaker 3",
+    "emotion": "sadness"
+  },
+  {
+    "start": 36.36,
+    "end": 37.12,
+    "text": " Oh, and her summer.",
+    "speaker": "Speaker 1",
+    "emotion": "neutral"
+  },
+  {
+    "start": 37.56,
+    "end": 38.94,
+    "text": " This is once my boy.",
+    "speaker": "Speaker 1",
+    "emotion": "neutral"
+  },
+  {
+    "start": 39.14,
+    "end": 39.76,
+    "text": " Thank you.",
+    "speaker": "Speaker 1",
+    "emotion": "neutral"
+  },
+  {
+    "start": 40.26,
+    "end": 42.28,
+    "text": " As your mom received any baby gifts, yeah?",
+    "speaker": "Speaker 2",
+    "emotion": "neutral"
+  },
+  {
+    "start": 42.46,
+    "end": 42.9,
+    "text": " No.",
+    "speaker": "Speaker 2",
+    "emotion": "neutral"
+  },
+  {
+    "start": 43.12,
+    "end": 45.0,
+    "text": " No, you want to give her a baby gift today?",
+    "speaker": "Speaker 2",
+    "emotion": "surprise"
+  },
+  {
+    "start": 45.86,
+    "end": 48.44,
+    "text": " The only baby gift we can give her is we can dismiss the case.",
+    "speaker": "Speaker 2",
+    "emotion": "neutral"
+  },
+  {
+    "start": 48.56,
+    "end": 49.62,
+    "text": " Do you want to dismiss the case?",
+    "speaker": "Speaker 2",
+    "emotion": "anger"
+  },
+  {
+    "start": 50.28,
+    "end": 51.46,
+    "text": " Yeah, thank you so much.",
+    "speaker": "Speaker 2",
+    "emotion": "joy"
+  },
+  {
+    "start": 51.46,
+    "end": 53.7,
+    "text": " We're going to give you an early baby gift, okay?",
+    "speaker": "Speaker 2",
+    "emotion": "neutral"
+  },
+  {
+    "start": 53.76,
+    "end": 53.94,
+    "text": " Thank you.",
+    "speaker": "Speaker 2",
+    "emotion": "neutral"
+  },
+  {
+    "start": 54.18,
+    "end": 55.64,
+    "text": " Because your lawyer is a parent.",
+    "speaker": "Speaker 2",
+    "emotion": "neutral"
+  },
+  {
+    "start": 55.64,
+    "end": 57.22,
+    "text": " He says you're not guilty right away.",
+    "speaker": "Speaker 2",
+    "emotion": "neutral"
+  },
+  {
+    "start": 57.42,
+    "end": 57.7,
+    "text": " Right.",
+    "speaker": "Speaker 1",
+    "emotion": "neutral"
+  },
+  {
+    "start": 57.7,
+    "end": 59.08,
+    "text": " Thank you.",
+    "speaker": "Speaker 1",
+    "emotion": "neutral"
+  },
+  {
+    "start": 59.08,
+    "end": 60.0,
+    "text": " I could watch him.",
+    "speaker": "Speaker 1",
+    "emotion": "neutral"
+  }
+]

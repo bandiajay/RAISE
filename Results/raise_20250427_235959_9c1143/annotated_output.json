@@ -1,0 +1,135 @@
+[
+  {
+    "start": 0.0,
+    "end": 4.24,
+    "text": " I ran all the way here from the pole station, the police station.",
+    "speaker": "Speaker 1",
+    "emotion": "neutral"
+  },
+  {
+    "start": 4.24,
+    "end": 6.36,
+    "text": " What were you doing before you were arrested?",
+    "speaker": "Speaker 1",
+    "emotion": "fear"
+  },
+  {
+    "start": 6.74,
+    "end": 9.02,
+    "text": " I was painting my part.",
+    "speaker": "Speaker 1",
+    "emotion": "disgust"
+  },
+  {
+    "start": 10.0,
+    "end": 11.02,
+    "text": " Did you dry now?",
+    "speaker": "Speaker 2",
+    "emotion": "surprise"
+  },
+  {
+    "start": 13.099999999999993,
+    "end": 14.06,
+    "text": " Oh, so...",
+    "speaker": "Speaker 1",
+    "emotion": "neutral"
+  },
+  {
+    "start": 14.06,
+    "end": 15.78,
+    "text": " J.S. is pretty determined.",
+    "speaker": "Speaker 1",
+    "emotion": "neutral"
+  },
+  {
+    "start": 16.24,
+    "end": 20.56,
+    "text": " He's been waiting outside the front of the building on some 40 pound pismino for over a month.",
+    "speaker": "Speaker 1",
+    "emotion": "neutral"
+  },
+  {
+    "start": 21.1,
+    "end": 22.14,
+    "text": " He said you're smart.",
+    "speaker": "Speaker 2",
+    "emotion": "neutral"
+  },
+  {
+    "start": 23.0,
+    "end": 24.06,
+    "text": " I like to think so.",
+    "speaker": "Speaker 1",
+    "emotion": "joy"
+  },
+  {
+    "start": 24.6,
+    "end": 25.82,
+    "text": " Do you want to learn this business?",
+    "speaker": "Speaker 1",
+    "emotion": "neutral"
+  },
+  {
+    "start": 26.14,
+    "end": 27.52,
+    "text": " Yes sir, I want to learn this business.",
+    "speaker": "Speaker 1",
+    "emotion": "sadness"
+  },
+  {
+    "start": 27.52,
+    "end": 29.74,
+    "text": " If you already started learning on your own.",
+    "speaker": "Speaker 1",
+    "emotion": "neutral"
+  },
+  {
+    "start": 30.46,
+    "end": 31.08,
+    "text": " Absolutely.",
+    "speaker": "Speaker 1",
+    "emotion": "neutral"
+  },
+  {
+    "start": 32.14,
+    "end": 33.36,
+    "text": " J.S.",
+    "speaker": "Speaker 2",
+    "emotion": "neutral"
+  },
+  {
+    "start": 34.44,
+    "end": 36.28,
+    "text": " Many times have you seen Chris?",
+    "speaker": "Speaker 2",
+    "emotion": "neutral"
+  },
+  {
+    "start": 36.96,
+    "end": 37.66,
+    "text": " I don't know.",
+    "speaker": "Speaker 2",
+    "emotion": "surprise"
+  },
+  {
+    "start": 38.1,
+    "end": 39.32,
+    "text": " One too many probably.",
+    "speaker": "Speaker 1",
+    "emotion": "neutral"
+  },
+  {
+    "start": 40.16,
+    "end": 41.52,
+    "text": " Do you have a dress like this?",
+    "speaker": "Speaker 1",
+    "emotion": "surprise"
+  },
+  {
+    "start": 41.74,
+    "end": 41.92,
+    "text": " No.",
+    "speaker": "Speaker 1",
+    "emotion": "neutral"
+  }
+]

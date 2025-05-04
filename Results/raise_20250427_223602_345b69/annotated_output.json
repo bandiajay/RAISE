@@ -1,0 +1,142 @@
+[
+  {
+    "start": 1.4599999999999969,
+    "end": 4.88,
+    "text": " Hey, what's everyone up for up to this weekend?",
+    "speaker": "Speaker 1",
+    "emotion": "neutral"
+  },
+  {
+    "start": 5.3,
+    "end": 6.9,
+    "text": " Not much just relaxing.",
+    "speaker": "Speaker 2",
+    "emotion": "neutral"
+  },
+  {
+    "start": 7.48,
+    "end": 8.8,
+    "text": " Why got any plans?",
+    "speaker": "Speaker 2",
+    "emotion": "neutral"
+  },
+  {
+    "start": 9.02,
+    "end": 9.54,
+    "text": " Same here.",
+    "speaker": "Speaker 1",
+    "emotion": "neutral"
+  },
+  {
+    "start": 9.7,
+    "end": 10.92,
+    "text": " What do you have in mind?",
+    "speaker": "Speaker 1",
+    "emotion": "neutral"
+  },
+  {
+    "start": 11.42,
+    "end": 12.84,
+    "text": " How about a road trip to the beach?",
+    "speaker": "Speaker 1",
+    "emotion": "neutral"
+  },
+  {
+    "start": 13.3,
+    "end": 16.68,
+    "text": " We could leave Saturday morning and come back Sunday evening.",
+    "speaker": "Speaker 1",
+    "emotion": "neutral"
+  },
+  {
+    "start": 17.1,
+    "end": 19.26,
+    "text": " A beach trip that sounds amazing.",
+    "speaker": "Speaker 2",
+    "emotion": "joy"
+  },
+  {
+    "start": 19.5,
+    "end": 21.84,
+    "text": " I am in which beach are we thinking of?",
+    "speaker": "Speaker 2",
+    "emotion": "neutral"
+  },
+  {
+    "start": 23.0,
+    "end": 24.04,
+    "text": " Allow that idea.",
+    "speaker": "Speaker 3",
+    "emotion": "neutral"
+  },
+  {
+    "start": 24.62,
+    "end": 26.52,
+    "text": " Maybe we could go to the blue water beach.",
+    "speaker": "Speaker 3",
+    "emotion": "neutral"
+  },
+  {
+    "start": 26.96,
+    "end": 28.94,
+    "text": " We would be about 4 hours drive from here.",
+    "speaker": "Speaker 3",
+    "emotion": "neutral"
+  },
+  {
+    "start": 29.54,
+    "end": 31.22,
+    "text": " Blue water beach sound perfect.",
+    "speaker": "Speaker 1",
+    "emotion": "joy"
+  },
+  {
+    "start": 31.7,
+    "end": 34.78,
+    "text": " It has great spots for camping and one fights too.",
+    "speaker": "Speaker 1",
+    "emotion": "joy"
+  },
+  {
+    "start": 35.04,
+    "end": 37.88,
+    "text": " I have never been there but I have heard it's beautiful.",
+    "speaker": "Speaker 2",
+    "emotion": "surprise"
+  },
+  {
+    "start": 38.1,
+    "end": 39.04,
+    "text": " Are we staying overnight?",
+    "speaker": "Speaker 2",
+    "emotion": "neutral"
+  },
+  {
+    "start": 39.8,
+    "end": 41.66,
+    "text": " Yeah, I think we should camp overnight.",
+    "speaker": "Speaker 3",
+    "emotion": "neutral"
+  },
+  {
+    "start": 42.02,
+    "end": 44.14,
+    "text": " I can bring the 10 tents, ripping bags.",
+    "speaker": "Speaker 3",
+    "emotion": "neutral"
+  },
+  {
+    "start": 44.7,
+    "end": 46.12,
+    "text": " I will bring food and everything.",
+    "speaker": "Speaker 1",
+    "emotion": "anger"
+  },
+  {
+    "start": 46.44,
+    "end": 46.6,
+    "text": " Bye.",
+    "speaker": "Speaker 1",
+    "emotion": "joy"
+  }
+]

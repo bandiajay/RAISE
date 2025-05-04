@@ -1,0 +1,135 @@
+[
+  {
+    "start": 1.5000000000000013,
+    "end": 2.84,
+    "text": " And you know this how?",
+    "speaker": "Speaker 1",
+    "emotion": "surprise"
+  },
+  {
+    "start": 3.3,
+    "end": 4.72,
+    "text": " It's been done before.",
+    "speaker": "Speaker 1",
+    "emotion": "neutral"
+  },
+  {
+    "start": 5.36,
+    "end": 5.58,
+    "text": " Ocean.",
+    "speaker": "Speaker 1",
+    "emotion": "neutral"
+  },
+  {
+    "start": 6.9,
+    "end": 9.04,
+    "text": " Never in a lake, but in theory it should work the same.",
+    "speaker": "Speaker 1",
+    "emotion": "neutral"
+  },
+  {
+    "start": 9.74,
+    "end": 10.18,
+    "text": " In theory.",
+    "speaker": "Speaker 1",
+    "emotion": "neutral"
+  },
+  {
+    "start": 11.580000000000002,
+    "end": 12.86,
+    "text": " Theory created the atom bomb.",
+    "speaker": "Speaker 2",
+    "emotion": "disgust"
+  },
+  {
+    "start": 14.54,
+    "end": 15.42,
+    "text": " What if it doesn't work?",
+    "speaker": "Speaker 1",
+    "emotion": "anger"
+  },
+  {
+    "start": 17.24,
+    "end": 22.62,
+    "text": " Then we can all sleep better at night knowing we at least tried, Spencer, and we become the richest people on the unemployment line.",
+    "speaker": "Speaker 1",
+    "emotion": "neutral"
+  },
+  {
+    "start": 23.3,
+    "end": 24.3,
+    "text": " So let me get this straight.",
+    "speaker": "Speaker 1",
+    "emotion": "neutral"
+  },
+  {
+    "start": 24.56,
+    "end": 27.94,
+    "text": " You want me to get back in that water and swim to the bottom of the lake and plant some sort of bomb?",
+    "speaker": "Speaker 1",
+    "emotion": "fear"
+  },
+  {
+    "start": 28.400000000000002,
+    "end": 30.4,
+    "text": " That's going to kill all these sharks in one bell swoop.",
+    "speaker": "Speaker 1",
+    "emotion": "neutral"
+  },
+  {
+    "start": 32.46,
+    "end": 32.9,
+    "text": " Yeah.",
+    "speaker": "Speaker 1",
+    "emotion": "neutral"
+  },
+  {
+    "start": 33.54,
+    "end": 36.4,
+    "text": " And forgetting everything else, which we can't.",
+    "speaker": "Speaker 2",
+    "emotion": "neutral"
+  },
+  {
+    "start": 36.74,
+    "end": 38.58,
+    "text": " Whatever it is that other wildlife in that water.",
+    "speaker": "Speaker 2",
+    "emotion": "disgust"
+  },
+  {
+    "start": 42.56,
+    "end": 43.38,
+    "text": " Collateral damage.",
+    "speaker": "Speaker 1",
+    "emotion": "neutral"
+  },
+  {
+    "start": 44.34,
+    "end": 45.66,
+    "text": " We just need the lake, Spencer.",
+    "speaker": "Speaker 1",
+    "emotion": "neutral"
+  },
+  {
+    "start": 46.18,
+    "end": 49.54,
+    "text": " Okay, if nothing else survives this, we're prepared to move forward knowing that.",
+    "speaker": "Speaker 1",
+    "emotion": "neutral"
+  },
+  {
+    "start": 49.72,
+    "end": 51.58,
+    "text": " Okay, stop sitting on your ass here.",
+    "speaker": "Speaker 1",
+    "emotion": "anger"
+  },
+  {
+    "start": 51.78,
+    "end": 54.76,
+    "text": " I wouldn't be down here asking for your help if I had any other option.",
+    "speaker": "Speaker 1",
+    "emotion": "neutral"
+  }
+]

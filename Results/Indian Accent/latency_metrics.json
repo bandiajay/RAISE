@@ -1,0 +1,16 @@
+{
+  "audio_length_sec": 52.56,
+  "transcription_start": "2025-04-28T00:17:02.116240",
+  "transcription_end": "2025-04-28T00:17:06.923962",
+  "transcription_duration_sec": 4.807722,
+  "diarization_start": "2025-04-28T00:17:06.938404",
+  "diarization_end": "2025-04-28T00:18:24.766445",
+  "diarization_duration_sec": 77.828041,
+  "emotion_start": "2025-04-28T00:18:26.170843",
+  "emotion_end": "2025-04-28T00:18:26.290916",
+  "emotion_duration_sec": 0.120073,
+  "gpt_start": "2025-04-28T00:18:26.358307",
+  "gpt_end": "2025-04-28T00:18:27.409610",
+  "gpt_duration_sec": 1.051303,
+  "total_duration_sec": 85.296075
+}
